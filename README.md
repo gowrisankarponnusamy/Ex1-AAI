@@ -1,7 +1,8 @@
 ### Name : GOWRISANKAR P
 ### Reg no : 212222230041
 ### Date : 
-<H1 ALIGN=CENTER> 1 . Implementation of Bayesian Networks</H1>
+### Experiment 1
+<H1 ALIGN=CENTER>Implementation of Bayesian Networks</H1>
 
 ## Aim:
 To create a bayesian Network for the given dataset in Python
