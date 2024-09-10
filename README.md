@@ -1,7 +1,6 @@
-<H3> Name:GOWRISANKAR P</H3>
-<H3>Register No:212222230041</H3>
-<H3> Experiment:1</H3>
-<H3>DATE:</H3>
+### Name : GOWRISANKAR P
+### Reg no : 212222230041
+### Date : 
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 
 ## Aim:
